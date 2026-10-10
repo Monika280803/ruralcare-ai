@@ -1,0 +1,6 @@
+{
+  "name": "RuralCare AI – Symptom Checker & Triage Assistant",
+  "description": "Accessible preliminary health guidance and symptom triage assistant for rural and remote communities powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
